@@ -2,6 +2,16 @@
 
 A comprehensive Sudoku game and solver implemented in Haskell, featuring both interactive gameplay and automated solving capabilities.
 
+## Program Output
+
+![Home Page](assets/home-page.png)
+
+![Game Play](assets/game-play.png)
+
+![Sudoku Solver](assets/sudoku-solver.png)
+
+![Load Game](assets/load-game.png)
+
 ## Features
 
 ### 🎮 Game Modes
