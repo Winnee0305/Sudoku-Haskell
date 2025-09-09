@@ -189,27 +189,4 @@ cabal test  # If tests are available
 - Extensive documentation comments
 - Consistent naming conventions
 
-## License
-
-This project is licensed under the BSD-3-Clause License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-**Winnee0305**  
-Email: winnee.chew@gmail.com
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## Changelog
-
-See [CHANGELOG.md](CHANGELOG.md) for version history and updates.
-
----
-
 **Enjoy playing Sudoku!** 🧩
